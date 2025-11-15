@@ -1,0 +1,6 @@
+streamlit
+pandas==1.5.3
+scikit-learn
+python-docx
+pdfplumber
+openpyxl
